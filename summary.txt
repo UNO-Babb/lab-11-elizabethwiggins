@@ -1,0 +1,4 @@
+I adjusted the rate at which new shoppers appear from a shopper every 2 minutes, to a new shopper every 1 to 5 minutes. I also changed
+the number of items each shopper was getting to 5-100 items, chosen at random, and the number of checkers was changed to 3. In addition
+to the simulation results for average wait time and total idle time, I also added the total shoppers and the number of minutes the 
+simulation ran for.
